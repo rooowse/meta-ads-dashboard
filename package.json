@@ -1,0 +1,14 @@
+{
+  "name": "hoka-lash-meta-dashboard",
+  "version": "1.0.0",
+  "description": "Live Meta Ads dashboard for Hoka Lash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  }
+}
