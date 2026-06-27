@@ -3,7 +3,7 @@ const express = require('express');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5173;
 const AD_ACCOUNT_ID = process.env.META_AD_ACCOUNT_ID || '313827266010023';
 const ACCESS_TOKEN = process.env.META_ACCESS_TOKEN || '';
 const GRAPH_BASE = 'https://graph.facebook.com/v21.0';
