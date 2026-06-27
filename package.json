@@ -1,0 +1,19 @@
+{
+  "name": "meta-ads-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive dashboard for Meta Ads reporting and analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:41729/git/rooowse/meta-ads-dashboard"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^8.1.0"
+  }
+}
